@@ -97,7 +97,7 @@ Purpose verify that *jmeter-grpc-request* is really stable when performing load 
 
 In order to build JMeter GRPC Request from source, you will need:
 
-- [Java 8](https://www.oracle.com/downloads/index.html)
+- [Java 11](https://www.oracle.com/downloads/index.html)
 - [Apache Maven 3](https://maven.apache.org/)
 
 ### Build from source
