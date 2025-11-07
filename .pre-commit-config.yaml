@@ -31,6 +31,8 @@ repos:
   - id: pretty-format-java
     args: [--aosp, --autofix]
     exclude: dist/
+    additional_dependencies: [setuptools]
   - id: pretty-format-yaml
     args: [--autofix, --indent, '2']
     exclude: dist/
+    additional_dependencies: [setuptools]
