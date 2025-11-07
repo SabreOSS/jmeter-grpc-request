@@ -87,7 +87,7 @@
 ### 构建环境
 从源码构建 JMeter GRPC Request 插件，进行开发调试，必须拥有以下环境：
 
-- [Java 8](https://www.oracle.com/downloads/index.html)
+- [Java 11](https://www.oracle.com/downloads/index.html)
 - [Apache Maven 3](https://maven.apache.org/)
 
 ### 构建命令
