@@ -2,7 +2,7 @@
 
 Quick links:
 
-* [Releases page](https://github.com/zalopay-oss/jmeter-grpc-request/releases)
+* [Releases page](https://github.com/SabreOSS/jmeter-grpc-request/releases)
 
 ## Upcoming release
 
