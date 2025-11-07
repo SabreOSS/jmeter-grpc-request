@@ -155,7 +155,7 @@ public class GRPCSampler extends AbstractSampler implements ThreadListener, Test
             generateSuccessResult(grpcResponse, sampleResult);
         } else {
             generateErrorResult(grpcResponse, sampleResult);
-	    if (clientCaller != null) {
+            if (clientCaller != null) {
                 clientCaller.shutdownNettyChannel();
                 clientCaller = null;
             }
